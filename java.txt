@@ -1,0 +1,7 @@
+after two i will have to switch for which what important topics are like:
+
+Angular 2+
+java new versions 9 to 16+
+spring boot
+spring security
+JUnit and mockito
